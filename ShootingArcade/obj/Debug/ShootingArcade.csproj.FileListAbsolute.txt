@@ -1,0 +1,16 @@
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\bin\Debug\ShootingArcade.exe.config
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\bin\Debug\ShootingArcade.exe
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\bin\Debug\ShootingArcade.pdb
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\obj\Debug\ShootingArcade.csproj.AssemblyReference.cache
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\obj\Debug\ShootingArcade.Game.resources
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\obj\Debug\ShootingArcade.Properties.Resources.resources
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\obj\Debug\ShootingArcade.csproj.GenerateResource.cache
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\obj\Debug\ShootingArcade.csproj.CoreCompileInputs.cache
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\obj\Debug\ShootingArcade.exe
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\obj\Debug\ShootingArcade.pdb
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\obj\Debug\ShootingArcade.Menu.resources
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\obj\Debug\ShootingArcade.Records.resources
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\obj\Debug\ShootingArcade.LevelMenu.resources
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\obj\Debug\ShootingArcade.csproj.CopyComplete
+C:\Users\4859554\source\repos\ShootingArcade\ShootingArcade\obj\Debug\ShootingArcade.Rules.resources
